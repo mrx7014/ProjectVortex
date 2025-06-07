@@ -27,7 +27,7 @@
 > 4. Check apps updates after install module from Galaxy Store
 > 5. Check apps updates always from Galaxy Store
 > 6. Don't update Photo Editor App EVER
-> 7. Install SuperMario-Tweaker to improve performance
+> 7. Install **[SuperMario-Tweaker](https://github.com/mrx7014/SuperMario-Tweaker)** to improve performance
 
 
 ## 🚀 Features
