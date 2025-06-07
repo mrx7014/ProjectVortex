@@ -1,0 +1,37 @@
+####################################
+#              Project Vortex                 #
+####################################
+# New About Phone UI
+ril.support.dynamic_imei=true
+# Multi-User Support  
+fw.max_users=5  
+fw.show_multiuserui=1  
+fw.showhiddenusers=1  
+fw.poweruserswitcher=1
+# CTS
+ro.com.google.cdb.spa1=bsxasm1
+ro.bbt.support.circle2search=true
+## S24+ Spoofer
+ro.product.brand=samsung
+ro.product.device=e2q
+ro.product.manufacturer=samsung
+ro.product.model=SM-S926B
+ro.product.name=Samsung S24+
+ro.product.product.brand=samsung
+ro.product.product.device=e2q
+ro.product.product.manufacturer=samsung
+ro.product.product.model=SM-S926B
+ro.product.build.date=Fri Sep 27 19:37:52 KST 2024
+ro.product.build.date.utc=1727433472
+ro.product.build.fingerprint=samsung/e2q/e2q:14/UP1A.231005.007/S926BXXS5AYB2:user/release-keys
+ro.product.build.id=UP1A.231005.007
+ro.product.build.version.incremental=S926BXXS5AYB2
+ro.build.date=Fri Sep 27 19:37:52 KST 2024
+ro.build.date.utc=1727433472
+ro.build.fingerprint=samsung/e2q/e2q:14/UP1A.231005.007/S926BXXS5AYB2:user/release-keys
+ro.build.id=UP1A.231005.007
+ro.build.display.id=UP1A.231005.007.S926BXXS5AYB2
+ro.build.description=e2q-user 14 UP1A.231005.007 S926BXXS5AYB2 release-keys
+ro.build.version.incremental=S926BXXS5AYB2
+ro.build.PDA=S926BXXS5AYB2
+ro.build.version.oneui=60101
