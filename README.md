@@ -21,13 +21,13 @@
 
 ## Note
 > [!CAUTION] 
-> For Galaxy A23 4G Only
-> For Android 14 With Stock or OneUI Lite
-> Don't install any spoofer (S24 or S25) with it
-> Check apps updates after install module from Galaxy Store
-> Check apps updates always from Galaxy Store
-> Don't update Photo Editor App EVER
-> Install SuperMario-Tweaker to improve performance
+> 1. For Galaxy A23 4G Only
+> 2. For Android 14 With Stock or OneUI Lite
+> 3. Don't install any spoofer (S24 or S25) with it
+> 4. Check apps updates after install module from Galaxy Store
+> 5. Check apps updates always from Galaxy Store
+> 6. Don't update Photo Editor App EVER
+> 7. Install SuperMario-Tweaker to improve performance
 
 
 ## 🚀 Features
