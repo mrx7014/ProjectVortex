@@ -1,1 +1,0 @@
-libSFEffect.fonteffect.samsung.so
