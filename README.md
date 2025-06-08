@@ -4,7 +4,7 @@
   <img src="assets/ProjectVortex.jpg" alt="" />
   <br />
 
-[![Module Version](https://img.shields.io/badge/Module_Version-v1.0.0-44cc11?style=for-the-badge)](https://github.com/mrx7014/ProjectVortex/releases/tag/v1.0.0)
+[![Module Version](https://img.shields.io/badge/Module_Version-v1.1.0-44cc11?style=for-the-badge)](https://github.com/mrx7014/ProjectVortex/releases/tag/v1.1.0)
 [![Download](https://img.shields.io/github/downloads/mrx7014/ProjectVortex/total?style=for-the-badge&cacheSeconds=2)](https://github.com/mrx7014/ProjectVortex/releases)
 [![Channel](https://img.shields.io/badge/Follow_Channel-MRX7014Cloud-252850?style=for-the-badge&color=blue&logo=telegram)](https://t.me/mrx7014cloud)
 [![Channel](https://img.shields.io/badge/Follow_Channel-A23Updates-252850?style=for-the-badge&color=blue&logo=telegram)](https://t.me/A235channel)
@@ -45,7 +45,6 @@
 - Photo Remaster
 - Almost All AI features (Call Assist,  Chat Assist,  Interpreter,  Note Assist,  Transcript assist, Browsing Assist, Photo Assist, Drawing Assist)
 - Bixby & Bixby Vision
-- Camera Share
 - Debloater for junk apps
 - S24 Live Wallpapers
 - Spoof device as S24+
@@ -53,11 +52,6 @@
 - Support Offical Good Lock from Galaxy Store
 - Change device photo in About Info to S24+
 - New About Info UI
-- New Settings UI
-- Adaptive colour tone
-- Screen Resolution (QHD+, FHD+, HD+)
-- Smart Tips
-- Smart Suggestions
 - Video Brightness
 - OneUI 7 UI Sounds
 - Samsung Galaxy S24 Boot Animation

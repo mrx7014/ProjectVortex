@@ -8,10 +8,7 @@ fw.max_users=5
 fw.show_multiuserui=1  
 fw.showhiddenusers=1  
 fw.poweruserswitcher=1
-# CTS
-ro.com.google.cdb.spa1=bsxasm1
-ro.bbt.support.circle2search=true
-## S24+ Spoofer
+# S24+ Spoofer
 ro.product.brand=samsung
 ro.product.device=e2q
 ro.product.manufacturer=samsung
@@ -35,3 +32,5 @@ ro.build.description=e2q-user 14 UP1A.231005.007 S926BXXS5AYB2 release-keys
 ro.build.version.incremental=S926BXXS5AYB2
 ro.build.PDA=S926BXXS5AYB2
 ro.build.version.oneui=60101
+# Wifi Sharing
+wifi_ap_wifi_sharing=1

@@ -1,7 +1,7 @@
 id=PVX
 name=Project Vortex - Portless Module
-version=v1.0.0
-versionCode=100
+version=v1.1.0
+versionCode=110
 author=MRX7014
 description=Flagship Experience For Galaxy A23
 updateJson=https://raw.githubusercontent.com/MRX7014/ProjectVortex/master/update.json

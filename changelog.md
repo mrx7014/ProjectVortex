@@ -1,4 +1,19 @@
 # ProjectVortex
+*v1.1.0*
+
+## Changelog:
+
+- Fix Issues from previous update
+- Bringback SmartView
+- Recognise apps and libs
+- Bringback old settings app
+- Bringback old Samsung Keyboard
+- Delete Screen Resolutions, Smart Suggestions, Smart Tips, and coloru toune (Not Needed)
+- Chnages for AI especially Photo Editor AI
+- Reduce Module Size
+- Fixes here and there
+
+# ProjectVortex
 *v1.0.0*
 
 ## 🚀 Features
