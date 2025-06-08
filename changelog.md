@@ -8,7 +8,7 @@
 - Recognise apps and libs
 - Bringback old settings app
 - Bringback old Samsung Keyboard
-- Delete Screen Resolutions, Smart Suggestions, Smart Tips, and coloru toune (Not Needed)
+- Delete Screen Resolutions, Smart Suggestions, Smart Tips, Camera Share, and coloru toune (Not Needed)
 - Chnages for AI especially Photo Editor AI
 - Reduce Module Size
 - Fixes here and there
