@@ -1,4 +1,14 @@
 # ProjectVortex
+*v1.1.1*
+
+## Changelog:
+
+- Fix Face Unlock Issues
+- Delete CTS & AOD junk files and codes
+- Delete Duplicated AI Wallpaper apk and make it work
+- Clean Floating Features File
+
+# ProjectVortex
 *v1.1.0*
 
 ## Changelog:

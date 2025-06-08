@@ -23,12 +23,6 @@ ui_print "📜 Notes (DONT SKIP IT):
 "
 sleep 5
 ui_print "🔧 Running configuration commands..."
-cmd device_config put launcher long_press_home_button_to_search true
-cmd device_config put launcher long_press_home_button_to_search_mpr true
-cmd device_config put launcher press_hold_nav_handle_to_search true
-cmd device_config put launcher press_hold_nav_handle_to_search_mpr true
-cmd device_config put launcher ENABLE_LONG_PRESS_NAV_HANDLE true
-cmd device_config put launcher ENABLE_LONG_PRESS_NAV_HANDLE_MPR true
 su -c cp /data/adb/modules/PVX/data/user_de/0/com.android.settings/files/DeviceImage.png /data/user_de/0/com.android.settings/files
 su -c chmod 644 /data/user_de/0/com.android.settings/files/DeviceImage.png
 su -c chmod 644 /system/priv-app/wallpaper-res/wallpaper-res.apk

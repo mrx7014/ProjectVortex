@@ -32,5 +32,3 @@ ro.build.description=e2q-user 14 UP1A.231005.007 S926BXXS5AYB2 release-keys
 ro.build.version.incremental=S926BXXS5AYB2
 ro.build.PDA=S926BXXS5AYB2
 ro.build.version.oneui=60101
-# Wifi Sharing
-wifi_ap_wifi_sharing=1

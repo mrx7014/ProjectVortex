@@ -19,7 +19,7 @@ jobs:
       
       - name: Create ProjectVortex Zip
         run: |
-          zip -r ProjectVortex-${{ github.event.inputs.tag_name }}.zip . -x ".git*" -x ".github*" -x "assets" -x "README.md" -x "changelog.md" -x "update.json"
+          zip -r ProjectVortex-${{ github.event.inputs.tag_name }}.zip . -x ".git*" -x ".github*" -x "README.md" -x "changelog.md" -x "update.json"
     
       - name: Create a tag
         run: |
