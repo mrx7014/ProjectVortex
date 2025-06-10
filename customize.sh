@@ -1,4 +1,20 @@
-awk '{print}' "$MODPATH"/assets/ProjectVortex-Banner
+#!/system/bin/sh
+ui_print "______          _           _   "
+ui_print "| ___ \        (_)         | |  "
+ui_print "| |_/ / __ ___  _  ___  ___| |_ "
+ui_print "|  __/ '__/ _ \| |/ _ \/ __| __|"
+ui_print "| |  | | | (_) | |  __/ (__| |_ "
+ui_print "\_|  |_|  \___/| |\___|\___|\__|"
+ui_print "              _/ |              "
+ui_print "             |__/               "
+ui_print " _   _            _             "
+ui_print "| | | |          | |            "
+ui_print "| | | | ___  _ __| |_ _____  __ "
+ui_print "| | | |/ _ \| '__| __/ _ \ \/ / "
+ui_print "\ \_/ / (_) | |  | ||  __/>  <  "
+ui_print " \___/ \___/|_|   \__\___/_/\_\ "
+ui_print "                                "
+ui_print "MRX7014"
 ui_print ""
 sleep 1
 if [ -d "/data/adb/modules/AFFT" ]; then
