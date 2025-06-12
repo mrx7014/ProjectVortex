@@ -4,7 +4,7 @@
   <img src="assets/ProjectVortex.jpg" alt="" />
   <br />
 
-[![Module Version](https://img.shields.io/badge/Module_Version-v1.1.0-44cc11?style=for-the-badge)](https://github.com/mrx7014/ProjectVortex/releases/tag/v1.1.0)
+[![Module Version](https://img.shields.io/badge/Module_Version-v1.1.2-44cc11?style=for-the-badge)](https://github.com/mrx7014/ProjectVortex/releases/tag/v1.1.2)
 [![Download](https://img.shields.io/github/downloads/mrx7014/ProjectVortex/total?style=for-the-badge&cacheSeconds=2)](https://github.com/mrx7014/ProjectVortex/releases)
 [![Channel](https://img.shields.io/badge/Follow_Channel-MRX7014Cloud-252850?style=for-the-badge&color=blue&logo=telegram)](https://t.me/mrx7014cloud)
 [![Channel](https://img.shields.io/badge/Follow_Channel-A23Updates-252850?style=for-the-badge&color=blue&logo=telegram)](https://t.me/A235channel)

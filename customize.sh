@@ -39,6 +39,7 @@ ui_print "📜 Notes (DONT SKIP IT):
 "
 sleep 5
 ui_print "🔧 Running configuration commands..."
+su -c rm -rf /data/user_de/0/com.android.settings/files/DeviceImage.png
 su -c cp /data/adb/modules/PVX/data/user_de/0/com.android.settings/files/DeviceImage.png /data/user_de/0/com.android.settings/files
 su -c chmod 644 /data/user_de/0/com.android.settings/files/DeviceImage.png
 su -c chmod 644 /system/priv-app/wallpaper-res/wallpaper-res.apk
@@ -46,21 +47,21 @@ su -c chmod 644 /data/adb/modules/PVX/system/priv-app/wallpaper-res/wallpaper-re
 sleep 3
 ui_print "🗑 Debloating Samsung junk apps..."
 pm uninstall --user 0 com.google.android.adservices.api > /dev/null
-pm uninstall --user 0 com.samsung.android.sm.devicesecurity /dev/null
-pm uninstall --user 0 com.samsung.android.app.clipboardedge /dev/null
-pm uninstall --user 0 com.samsung.android.app.cocktailbarservice /dev/null
-pm uninstall --user 0 com.google.android.healthconnect.controller /dev/null
-pm uninstall --user 0 com.samsung.android.service.peoplestripe /dev/null
-pm uninstall --user 0 com.qualcomm.qti.smq /dev/null
-pm uninstall --user 0 com.monotype.android.font.roboto /dev/null
-pm uninstall --user 0 com.sec.android.sdhms /dev/null
-pm uninstall --user 0 com.opera.max.oem /dev/null
-pm uninstall --user 0 com.sec.android.app.SecSetupWizard /dev/null
-pm uninstall --user 0 com.google.android.apps.restore /dev/null
-pm uninstall --user 0 com.google.ar.core /dev/null
-pm uninstall --user 0 com.samsung.android.app.reminder /dev/null
-pm uninstall --user 0 com.sec.android.easyMover /dev/null
-pm uninstall --user 0 com.google.android.apps.accessibility.voiceaccess /dev/null
+pm uninstall --user 0 com.samsung.android.sm.devicesecurity > /dev/null
+pm uninstall --user 0 com.samsung.android.app.clipboardedge > /dev/null
+pm uninstall --user 0 com.samsung.android.app.cocktailbarservice > /dev/null
+pm uninstall --user 0 com.google.android.healthconnect.controller > /dev/null
+pm uninstall --user 0 com.samsung.android.service.peoplestripe > /dev/null
+pm uninstall --user 0 com.qualcomm.qti.smq > /dev/null
+pm uninstall --user 0 com.monotype.android.font.roboto > /dev/null
+pm uninstall --user 0 com.sec.android.sdhms > /dev/null
+pm uninstall --user 0 com.opera.max.oem > /dev/null
+pm uninstall --user 0 com.sec.android.app.SecSetupWizard > /dev/null
+pm uninstall --user 0 com.google.android.apps.restore > /dev/null
+pm uninstall --user 0 com.google.ar.core > /dev/null
+pm uninstall --user 0 com.samsung.android.app.reminder > /dev/null
+pm uninstall --user 0 com.sec.android.easyMover > /dev/null
+pm uninstall --user 0 com.google.android.apps.accessibility.voiceaccess > /dev/null
 ui_print "🧹 Cleaning up Cache"
 rm -rf /cache/*
 rm -rf /data/cache/*

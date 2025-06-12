@@ -1,4 +1,14 @@
 # ProjectVortex
+*1.1.2*
+
+## Changelog:
+
+- Fix device hanging on bootanimation after second or third restart
+- Fix S24+ Device Image not Changed
+- Fix wrong codes in debloat commands
+- Show banner with "ui_print" instead of "awk" to avoid issues and bugs
+
+# ProjectVortex
 *v1.1.1*
 
 ## Changelog:
