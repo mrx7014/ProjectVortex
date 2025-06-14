@@ -45,25 +45,27 @@ su -c chmod 644 /system/priv-app/wallpaper-res/wallpaper-res.apk
 su -c chmod 644 /data/adb/modules/PVX/system/priv-app/wallpaper-res/wallpaper-res.apk
 sleep 2
 ui_print "🗑 Debloating Samsung junk apps..."
-pm uninstall --user 0 com.google.android.adservices.api > /dev/null 2>&1 &
-pm uninstall --user 0 com.samsung.android.sm.devicesecurity > /dev/null 2>&1 &
-pm uninstall --user 0 com.samsung.android.app.clipboardedge > /dev/null 2>&1 &
-pm uninstall --user 0 com.samsung.android.app.cocktailbarservice > /dev/null 2>&1 &
-pm uninstall --user 0 com.google.android.healthconnect.controller > /dev/null 2>&1 &
-pm uninstall --user 0 com.samsung.android.service.peoplestripe > /dev/null 2>&1 &
-pm uninstall --user 0 com.qualcomm.qti.smq > /dev/null 2>&1 &
-pm uninstall --user 0 com.sec.android.sdhms > /dev/null 2>&1 &
-pm uninstall --user 0 com.opera.max.oem > /dev/null 2>&1 &
-pm uninstall --user 0 com.sec.android.app.SecSetupWizard > /dev/null 2>&1 &
-pm uninstall --user 0 com.google.android.apps.restore > /dev/null 2>&1 &
-pm uninstall --user 0 com.samsung.android.app.reminder > /dev/null 2>&1 &
-pm uninstall --user 0 com.sec.android.easyMover > /dev/null 2>&1 &
-pm uninstall --user 0 com.google.android.apps.accessibility.voiceaccess > /dev/null 2>&1 &
+pm uninstall --user 0 com.google.android.adservices.api > /dev/null 2>&1
+pm uninstall --user 0 com.samsung.android.sm.devicesecurity > /dev/null 2>&1
+pm uninstall --user 0 com.samsung.android.app.clipboardedge > /dev/null 2>&1
+pm uninstall --user 0 com.samsung.android.app.cocktailbarservice > /dev/null 2>&1
+pm uninstall --user 0 com.google.android.healthconnect.controller > /dev/null 2>&1
+pm uninstall --user 0 com.samsung.android.service.peoplestripe > /dev/null 2>&1
+pm uninstall --user 0 com.qualcomm.qti.smq > /dev/null 2>&1
+pm uninstall --user 0 com.sec.android.sdhms > /dev/null 2>&1
+pm uninstall --user 0 com.opera.max.oem > /dev/null 2>&1
+pm uninstall --user 0 com.sec.android.app.SecSetupWizard > /dev/null 2>&1
+pm uninstall --user 0 com.google.android.apps.restore > /dev/null 2>&1
+pm uninstall --user 0 com.samsung.android.app.reminder > /dev/null 2>&1
+pm uninstall --user 0 com.sec.android.easyMover > /dev/null 2>&1
+pm uninstall --user 0 com.google.android.apps.accessibility.voiceaccess > /dev/null 2>&1
+sleep 1
 ui_print "🧹 Cleaning up Cache"
 rm -rf /cache/*
 rm -rf /data/cache/*
 rm -rf /data/dalvik-cache/*
 rm -rf /data/system/package_cache/*
+sleep 1
 ui_print "✅ Project Vortex optimizations applied successfully!"
 sleep 2
 ui_print "🎉 Enjoy a smoother and more responsive Galaxy A23 experience! 🎉"
