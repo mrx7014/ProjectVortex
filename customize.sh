@@ -53,7 +53,6 @@ pm uninstall --user 0 com.samsung.android.app.cocktailbarservice 2>/dev/null
 pm uninstall --user 0 com.google.android.healthconnect.controller 2>/dev/null
 pm uninstall --user 0 com.samsung.android.service.peoplestripe 2>/dev/null
 pm uninstall --user 0 com.qualcomm.qti.smq 2>/dev/null
-pm uninstall --user 0 com.monotype.android.font.roboto 2>/dev/null
 pm uninstall --user 0 com.sec.android.sdhms 2>/dev/null
 pm uninstall --user 0 com.opera.max.oem 2>/dev/null
 pm uninstall --user 0 com.sec.android.app.SecSetupWizard 2>/dev/null
