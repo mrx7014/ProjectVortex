@@ -29,7 +29,7 @@ if [ -d "/data/adb/modules/S24_Spoofer" ]; then
   ui_print "WARNING: S24 Ultra Spoofer module has been detected and it will be removed at the next reboot."
   touch /data/adb/modules/S24_Spoofer/remove
 fi
-ui_print "🌪️ Initializing Vortex Optimization Engine..."
+ui_print "🌪️ Initializing Project Vortex Optimization Engine..."
 sleep 1.5
 ui_print "📜 Notes (DONT SKIP IT):
 • Check apps updates after install module from Galaxy Store
@@ -59,6 +59,13 @@ pm uninstall --user 0 com.google.android.apps.restore > /dev/null 2>&1
 pm uninstall --user 0 com.samsung.android.app.reminder > /dev/null 2>&1
 pm uninstall --user 0 com.sec.android.easyMover > /dev/null 2>&1
 pm uninstall --user 0 com.google.android.apps.accessibility.voiceaccess > /dev/null 2>&1
+pm uninstall --user 0 com.google.android.contactkeys > /dev/null 2>&1
+pm uninstall --user 0 com.google.android.safetycore > /dev/null 2>&1
+pm uninstall --user 0 com.samsung.android.bixby.agent > /dev/null 2>&1
+pm uninstall --user 0 com.samsung.android.bixbyvision.framework > /dev/null 2>&1
+pm uninstall --user 0 com.samsung.android.app.settings.bixby > /dev/null 2>&1
+pm uninstall --user 0 com.qti.snapdragon.qdcm_ff > /dev/null 2>&1
+pm uninstall --user 0 com.samsung.android.app.interpreter > /dev/null 2>&1
 sleep 1
 ui_print "🧹 Cleaning up Cache"
 rm -rf /cache/*
