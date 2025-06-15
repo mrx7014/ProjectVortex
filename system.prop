@@ -1,5 +1,5 @@
 ####################################
-#              Project Vortex                 #
+#         Project Vortex           #
 ####################################
 # New About Phone UI
 ril.support.dynamic_imei=true
@@ -32,3 +32,5 @@ ro.build.description=e2q-user 14 UP1A.231005.007 S926BXXS5AYB2 release-keys
 ro.build.version.incremental=S926BXXS5AYB2
 ro.build.PDA=S926BXXS5AYB2
 ro.build.version.oneui=60101
+# CTS
+ro.com.google.cdb.spa1=bsxasm1
