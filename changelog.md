@@ -11,6 +11,7 @@
 - Delete Link to Windows
 - Force change for S24+ Device Image
 - Speed up and organise installation UI
+- Reduce Module Size
 
 # ProjectVortex
 *1.1.2*
