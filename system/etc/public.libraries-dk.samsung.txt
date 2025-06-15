@@ -1,3 +1,0 @@
-lib_vnd_client.dk.samsung.so
-lib_native_client.dk.samsung.so
-lib_nativeJni.dk.samsung.so
