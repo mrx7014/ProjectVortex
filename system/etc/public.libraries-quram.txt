@@ -1,3 +1,0 @@
-libSEF.quram.so
-libimagecodec.quram.so
-libagifencoder.quram.so
