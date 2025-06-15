@@ -1,4 +1,18 @@
 # ProjectVortex
+*1.2.0*
+
+## Changelog:
+
+- Add Circle to Search
+- Fix uninstall/debloat commands thanks to @ZG089
+- Finally fix device hanging on bootanimation
+- Delete junk files and codes
+- Delete Bixby and his apps
+- Delete Link to Windows
+- Force change for S24+ Device Image
+- Speed up and organise installation UI
+
+# ProjectVortex
 *1.1.2*
 
 ## Changelog:
