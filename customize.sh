@@ -40,9 +40,6 @@ ui_print "📜 Notes (DONT SKIP IT):
 sleep 4
 ui_print "🔧 Running configuration commands..."
 su -c cp /data/adb/modules_update/PVX/data/user_de/0/com.android.settings/files/DeviceImage.png /data/user_de/0/com.android.settings/files
-su -c chmod 644 /data/user_de/0/com.android.settings/files/DeviceImage.png
-su -c chmod 644 /system/priv-app/wallpaper-res/wallpaper-res.apk
-su -c chmod 644 /data/adb/modules/PVX/system/priv-app/wallpaper-res/wallpaper-res.apk
 sleep 2
 ui_print "🗑 Debloating Samsung junk apps..."
 pm uninstall --user 0 com.google.android.adservices.api > /dev/null 2>&1
@@ -66,6 +63,9 @@ pm uninstall --user 0 com.samsung.android.bixbyvision.framework > /dev/null 2>&1
 pm uninstall --user 0 com.samsung.android.app.settings.bixby > /dev/null 2>&1
 pm uninstall --user 0 com.qti.snapdragon.qdcm_ff > /dev/null 2>&1
 pm uninstall --user 0 com.samsung.android.app.interpreter > /dev/null 2>&1
+pm uninstall --user 0 com.dti.samsung > /dev/null 2>&1
+pm uninstall --user 0 com.samsung.android.scs > /dev/null 2>&1
+pm uninstall --user 0 com.google.android.cellbroadcastreceiver > /dev/null 2>&1
 sleep 1
 ui_print "🧹 Cleaning up Cache"
 rm -rf /cache/*
