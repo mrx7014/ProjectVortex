@@ -34,7 +34,7 @@
 
 - High End Chinese Animations
 - S series OneUI Launcher
-- Link to Windows
+- Circle to Search
 - Performance Profile
 - Processing Speed
 - Dolby Atmos without Headsets
@@ -44,7 +44,6 @@
 - Battery Information (From S25 Series)
 - Photo Remaster
 - Almost All AI features (Call Assist,  Chat Assist,  Interpreter,  Note Assist,  Transcript assist, Browsing Assist, Photo Assist, Drawing Assist)
-- Bixby & Bixby Vision
 - Debloater for junk apps
 - S24 Live Wallpapers
 - Spoof device as S24+
@@ -52,10 +51,8 @@
 - Support Offical Good Lock from Galaxy Store
 - Change device photo in About Info to S24+
 - New About Info UI
-- Video Brightness
 - OneUI 7 UI Sounds
 - Samsung Galaxy S24 Boot Animation
-- Circle to Search
 
 ---
 
