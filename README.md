@@ -43,7 +43,7 @@
 - Mic Focus Mode
 - Battery Information (From S25 Series)
 - Photo Remaster
-- Almost All AI features (Call Assist,  Chat Assist,  Interpreter,  Note Assist,  Transcript assist, Browsing Assist, Photo Assist, Drawing Assist)
+- Almost All AI features (Call Assist, Chat Assist, Note Assist, Transcript assist, Browsing Assist, Photo Assist, Drawing Assist)
 - Debloater for junk apps
 - S24 Live Wallpapers
 - Spoof device as S24+
