@@ -1,4 +1,17 @@
 # ProjectVortex
+*1.3.0*
+
+- Support A23 5G
+- Recognise Floating Features file
+- Add More Apps To Be Debloated
+- Fix Change `DeviceImage` Command
+- Improvements and Fixes
+- Now Upload New Updates to `gofile.io` instead of `github releases`, So you can't update from Root Managers anymore
+- New Thumbnail
+
+## Changelog:
+
+# ProjectVortex
 *1.2.0*
 
 ## Changelog:
